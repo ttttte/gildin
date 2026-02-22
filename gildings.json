@@ -1,0 +1,1457 @@
+[
+    {
+        "name": "Adder Brooch",
+        "category": "Gilding Attributes",
+        "image": "32px-Adder_Brooch.png",
+        "gild_chance": "70%-95%",
+        "gilds": [
+            "Will +1",
+            "Agility +1",
+            "Survival +1"
+        ],
+        "success_attributes": [
+            "Survival",
+            "Will"
+        ]
+    },
+    {
+        "name": "Ancient Tooth",
+        "category": "Gilding Attributes",
+        "image": "Ancient_Tooth.png",
+        "gild_chance": "30%-65%",
+        "gilds": [
+            "Carpentry +15",
+            "Cooking +12",
+            "Melee Combat +9",
+            "Masonry +6"
+        ],
+        "success_attributes": [
+            "Agility"
+        ]
+    },
+    {
+        "name": "Badger's Pouch",
+        "category": "Gilding Attributes",
+        "image": "32px-Badger's_Pouch.png",
+        "gild_chance": "50%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Bark Reinforcement",
+        "category": "Gilding Attributes",
+        "image": "Bark_Reinforcement.png",
+        "gild_chance": "50%-90%",
+        "gilds": [
+            "Unarmed Combat +1"
+        ],
+        "success_attributes": [
+            "Survival",
+            "Unarmed Combat"
+        ]
+    },
+    {
+        "name": "Bear Fur Trimmings",
+        "category": "Gilding Attributes",
+        "image": "Bear_Fur_Trimmings.png",
+        "gild_chance": "20%-85%",
+        "gilds": [
+            "Strength +1",
+            "Melee Combat +1",
+            "Unarmed Combat +1"
+        ],
+        "success_attributes": [
+            "Melee Combat",
+            "Sewing",
+            "Strength",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Bear Tooth",
+        "category": "Gilding Attributes",
+        "image": "Bear_Tooth.png",
+        "gild_chance": "20%-60%",
+        "gilds": [
+            "Strength +2"
+        ],
+        "success_attributes": [
+            "Strength"
+        ]
+    },
+    {
+        "name": "Blacksmith's Bauble",
+        "category": "Gilding Attributes",
+        "image": "Blacksmith's_Bauble.png",
+        "gild_chance": "20%-80%",
+        "gilds": [
+            "Strength +1",
+            "Melee Combat +2",
+            "Smithing +3"
+        ],
+        "success_attributes": [
+            "Smithing",
+            "Strength"
+        ]
+    },
+    {
+        "name": "Boarhide Lining",
+        "category": "Gilding Attributes",
+        "image": "Boarhide_Lining.png",
+        "gild_chance": "35%-75%",
+        "gilds": [
+            "Constitution +1",
+            "Unarmed Combat  +4",
+            "Cooking +2"
+        ],
+        "success_attributes": [
+            "Strength",
+            "Survival",
+            "Unarmed Combat"
+        ]
+    },
+    {
+        "name": "Bone Pins",
+        "category": "Gilding Attributes",
+        "image": "Bone_Pins.png",
+        "gild_chance": "35%-100%",
+        "gilds": [
+            "Stealth +5"
+        ],
+        "success_attributes": [
+            "Stealth"
+        ]
+    },
+    {
+        "name": "Bushcraft Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Bushcraft_Pocket.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Chef's Pin",
+        "category": "Gilding Attributes",
+        "image": "Chef's_Pin.png",
+        "gild_chance": "40%-100%",
+        "gilds": [
+            "Cooking +5"
+        ],
+        "success_attributes": [
+            "Cooking"
+        ]
+    },
+    {
+        "name": "Chitin Sequins",
+        "category": "Gilding Attributes",
+        "image": "Chitin_Sequins.png",
+        "gild_chance": "60%-95%",
+        "gilds": [
+            "Cooking +3",
+            "Carpentry +2",
+            "Stealth +1"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Survival",
+            "Will"
+        ]
+    },
+    {
+        "name": "Cloth Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Cloth_Pocket.png",
+        "gild_chance": "50%-93%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Copper Scales",
+        "category": "Gilding Attributes",
+        "image": "Copper_Scales.png",
+        "gild_chance": "45%-100%",
+        "gilds": [
+            "Strength +2",
+            "Smithing +3",
+            "Lore +6"
+        ],
+        "success_attributes": [
+            "Smithing",
+            "Strength"
+        ]
+    },
+    {
+        "name": "Cornbraid",
+        "category": "Gilding Attributes",
+        "image": "Cornbraid.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Perception +1",
+            "Cooking +2",
+            "Farming +3"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Farming"
+        ]
+    },
+    {
+        "name": "Ermine Trimming",
+        "category": "Gilding Attributes",
+        "image": "Ermine_Trimming.png",
+        "gild_chance": "45%-85%",
+        "gilds": [
+            "Strength +3",
+            "Charisma +3",
+            "Melee Combat +3"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Extra Stitches",
+        "category": "Gilding Attributes",
+        "image": "Extra_Stitches.png",
+        "gild_chance": "40%-100%",
+        "gilds": [
+            "Cooking +2",
+            "Survival +2",
+            "Unarmed +2"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Charisma",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Fancy Buckle",
+        "category": "Gilding Attributes",
+        "image": "Fancy_Buckle.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Agility +2",
+            "Melee Combat +4"
+        ],
+        "success_attributes": [
+            "Melee Combat"
+        ]
+    },
+    {
+        "name": "Feather Stuffing",
+        "category": "Gilding Attributes",
+        "image": "Feather_Stuffing.png",
+        "gild_chance": "30%-90%",
+        "gilds": [
+            "Agility +1",
+            "Exploration +2",
+            "Stealth +3"
+        ],
+        "success_attributes": [
+            "Exploration",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Feather Tassel",
+        "category": "Gilding Attributes",
+        "image": "32px-Feather_Tassel.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Exploration +2",
+            "Sewing +1"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Exploration",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Feather Trinket",
+        "category": "Gilding Attributes",
+        "image": "Feather_Trinket.png",
+        "gild_chance": "50%-100%",
+        "gilds": [
+            "Dexterity +1",
+            "Farming +3"
+        ],
+        "success_attributes": [
+            "Farming"
+        ]
+    },
+    {
+        "name": "Felt Inlay",
+        "category": "Gilding Attributes",
+        "image": "Felt_Inlay.png",
+        "gild_chance": "45%-85%",
+        "gilds": [
+            "Sewing +1",
+            "Stealth +2"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Fine Feather Brooch",
+        "category": "Gilding Attributes",
+        "image": "Fine_Feather_Brooch.png",
+        "gild_chance": "60%-90%",
+        "gilds": [
+            "Lore +3",
+            "Masonry +2",
+            "Unarmed Combat +2",
+            "Will + 1"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Lore",
+            "Sewing",
+            "Will"
+        ]
+    },
+    {
+        "name": "Finebone Trinkets",
+        "category": "Gilding Attributes",
+        "image": "Finebone_Trinkets.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Melee Combat +2",
+            "Stealth +1",
+            "Will +1"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Forager's Brooch",
+        "category": "Gilding Attributes",
+        "image": "Forager's_Brooch.png",
+        "gild_chance": "40%-100%",
+        "gilds": [
+            "Perception +1",
+            "Exploration +2"
+        ],
+        "success_attributes": [
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Fossil Lapel Pin",
+        "category": "Gilding Attributes",
+        "image": "32px-Fossil_Lapel_Pin.png",
+        "gild_chance": "65%-90%",
+        "gilds": [
+            "Masonry +1",
+            "Smithing +1",
+            "Exploration +1"
+        ],
+        "success_attributes": [
+            "Exploration",
+            "Masonry",
+            "Strength"
+        ]
+    },
+    {
+        "name": "Foul Smoke",
+        "category": "Gilding Attributes",
+        "image": "Foul_Smoke.png",
+        "gild_chance": "20%-80%",
+        "gilds": [
+            "Intelligence +5",
+            "Psyche +2",
+            "Stealth +3"
+        ],
+        "success_attributes": [
+            "Psyche",
+            "Stealth"
+        ]
+    },
+    {
+        "name": "Glass Beads",
+        "category": "Gilding Attributes",
+        "image": "Glass_Beads.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Perception +5"
+        ],
+        "success_attributes": [
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Gold Cloth Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Gold_Cloth_Pocket.png",
+        "gild_chance": "70%-95%",
+        "gilds": [
+            "Inventory +2"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Lore",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Greased Joints",
+        "category": "Gilding Attributes",
+        "image": "Greased_Joints.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Agility +1",
+            "Dexterity +2",
+            "Marksmanship +3"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Hard Metal Rivets",
+        "category": "Gilding Attributes",
+        "image": "Hard_Metal_Rivets.png",
+        "gild_chance": "25%-85%",
+        "gilds": [
+            "Melee Combat +3",
+            "Carpentry +3"
+        ],
+        "success_attributes": [
+            "Charisma"
+        ]
+    },
+    {
+        "name": "Hardened Leather Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Hardened_Leather_Pocket.png",
+        "gild_chance": "50%-93%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Heartwood Leaves",
+        "category": "Gilding Attributes",
+        "image": "Heartwood_Leaves.png",
+        "gild_chance": "30%-90%",
+        "gilds": [
+            "Perception +5",
+            "Farming +5",
+            "Cooking +5"
+        ],
+        "success_attributes": [
+            "Farming",
+            "Psyche"
+        ]
+    },
+    {
+        "name": "Hemp Fibre Finery",
+        "category": "Gilding Attributes",
+        "image": "Hemp_Fibre_Finery.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Strength +1",
+            "Agility +1",
+            "Farming +3"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Charisma",
+            "Farming"
+        ]
+    },
+    {
+        "name": "Hide Layer",
+        "category": "Gilding Attributes",
+        "image": "Hide_Layer.png",
+        "gild_chance": "45%-85%",
+        "gilds": [
+            "Unarmed Combat +2",
+            "Melee Combat +2",
+            "Survival +2"
+        ],
+        "success_attributes": [
+            "Exploration",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Leather Patch",
+        "category": "Gilding Attributes",
+        "image": "Leather_Patch.png",
+        "gild_chance": "40%-100%",
+        "gilds": [
+            "Exploration +3",
+            "Survival +3"
+        ],
+        "success_attributes": [
+            "Survival"
+        ]
+    },
+    {
+        "name": "Leather Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Leather_Pocket.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Lynx Claws",
+        "category": "Gilding Attributes",
+        "image": "Lynx_Claws.png",
+        "gild_chance": "30%-65%",
+        "gilds": [
+            "Agility +2"
+        ],
+        "success_attributes": [
+            "Agility"
+        ]
+    },
+    {
+        "name": "Magpie's Thieving Claw",
+        "category": "Gilding Attributes",
+        "image": "Magpie's_Thieving_Claw.png",
+        "gild_chance": "20%-50%",
+        "gilds": [
+            "Stealth +3",
+            "Intelligence +2"
+        ],
+        "success_attributes": [
+            "Stealth"
+        ]
+    },
+    {
+        "name": "Metal Buttons",
+        "category": "Gilding Attributes",
+        "image": "Metal_Buttons.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Unarmed Combat +3",
+            "Smithing +1"
+        ],
+        "success_attributes": [
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Meteoric Studs",
+        "category": "Gilding Attributes",
+        "image": "Meteoric_Studs.png",
+        "gild_chance": "65%-100%",
+        "gilds": [
+            "Agility +3",
+            "Intelligence +3",
+            "Charisma +4",
+            "Unarmed Combat +5"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Lore",
+            "Smithing",
+            "Strength"
+        ]
+    },
+    {
+        "name": "Mohair Monogram",
+        "category": "Gilding Attributes",
+        "image": "Mohair_Monogram.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Sewing +6",
+            "Melee Combat +4"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Sewing",
+            "Strength"
+        ]
+    },
+    {
+        "name": "Mole's Pawbone",
+        "category": "Gilding Attributes",
+        "image": "Mole's_Pawbone.png",
+        "gild_chance": "45%-80%",
+        "gilds": [
+            "Masonry +3",
+            "Exploration +2",
+            "Perception +1"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Masonry",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Moose Antler Buttons",
+        "category": "Gilding Attributes",
+        "image": "Moose_Antler_Buttons.png",
+        "gild_chance": "30%-95%",
+        "gilds": [
+            "Unarmed Combat +4",
+            "Will +2",
+            "Agility +1"
+        ],
+        "success_attributes": [
+            "Sewing",
+            "Strength",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Patterned Embroidery",
+        "category": "Gilding Attributes",
+        "image": "Patterned_Embroidery.png",
+        "gild_chance": "30%-90%",
+        "gilds": [
+            "Sewing +5",
+            "Unarmed Combat +3",
+            "Strength +1"
+        ],
+        "success_attributes": [
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Petraglyph",
+        "category": "Gilding Attributes",
+        "image": "Petraglyph.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Intelligence +1",
+            "Masonry +2",
+            "Lore +3"
+        ],
+        "success_attributes": [
+            "Lore",
+            "Masonry"
+        ]
+    },
+    {
+        "name": "Plumb-Bob",
+        "category": "Gilding Attributes",
+        "image": "Plumb-Bob.png",
+        "gild_chance": "45%-95%",
+        "gilds": [
+            "Intelligence +1",
+            "Masonry +4",
+            "Smithing +2"
+        ],
+        "success_attributes": [
+            "Exploration",
+            "Intelligence",
+            "Masonry"
+        ]
+    },
+    {
+        "name": "Polished Porphyry Beads",
+        "category": "Gilding Attributes",
+        "image": "Polished_Porphyry_Beads.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Strength +1",
+            "Masonry +2"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Masonry"
+        ]
+    },
+    {
+        "name": "Precious Details",
+        "category": "Gilding Attributes",
+        "image": "Precious_Details.png",
+        "gild_chance": "10%-80%",
+        "gilds": [
+            "Intelligence +3",
+            "Charisma +5"
+        ],
+        "success_attributes": [
+            "Agility"
+        ]
+    },
+    {
+        "name": "Quilted Wadding",
+        "category": "Gilding Attributes",
+        "image": "32px-Quilted_Wadding.png",
+        "gild_chance": "20%-100%",
+        "gilds": [
+            "Dexterity +3",
+            "Sewing +5"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Reed Brooch",
+        "category": "Gilding Attributes",
+        "image": "32px-Reed_Brooch.png",
+        "gild_chance": "45%-95%",
+        "gilds": [
+            "Agility +1",
+            "Exploration +1"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Reinforced Hem",
+        "category": "Gilding Attributes",
+        "image": "31px-Reinforced_Hem.png",
+        "gild_chance": "25%-100%",
+        "gilds": [
+            "Constitution +2",
+            "Unarmed Combat +3",
+            "Marksmanship +4"
+        ],
+        "success_attributes": [
+            "Strength",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Rock Crystal",
+        "category": "Gilding Attributes",
+        "image": "Rock_Crystal.png",
+        "gild_chance": "0%-75%",
+        "gilds": [
+            "Strength +2",
+            "Melee Combat +6"
+        ],
+        "success_attributes": [
+            "Melee Combat",
+            "Psyche"
+        ]
+    },
+    {
+        "name": "Root Woven Brooch",
+        "category": "Gilding Attributes",
+        "image": "32px-Root_Woven_Brooch.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Exploration +3",
+            "Lore +1"
+        ],
+        "success_attributes": [
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Rose Gold Clasps",
+        "category": "Gilding Attributes",
+        "image": "Rose_Gold_Clasps.png",
+        "gild_chance": "50%-90%",
+        "gilds": [
+            "Agility +8",
+            "Charisma +5",
+            "Marksmanship +10"
+        ],
+        "success_attributes": [
+            "Dexterity"
+        ]
+    },
+    {
+        "name": "Rough Guard Patch",
+        "category": "Gilding Attributes",
+        "image": "Rough_Guard_Patch.png",
+        "gild_chance": "40%-100%",
+        "gilds": [
+            "Perception +1",
+            "Survival +2",
+            "Marksmanship +3"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Shipwreck Buttons",
+        "category": "Gilding Attributes",
+        "image": "Shipwreck_Buttons.png",
+        "gild_chance": "60%-95%",
+        "gilds": [
+            "Intelligence +2",
+            "Psyche +2",
+            "Lore +4"
+        ],
+        "success_attributes": [
+            "Psyche",
+            "Sewing",
+            "Stealth"
+        ]
+    },
+    {
+        "name": "Silk Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Silk_Pocket.png",
+        "gild_chance": "60%-95%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Lore",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Silken Ribbon",
+        "category": "Gilding Attributes",
+        "image": "Silken_Ribbon.png",
+        "gild_chance": "30%-90%",
+        "gilds": [
+            "Intelligence +2",
+            "Charisma +5",
+            "Sewing +5"
+        ],
+        "success_attributes": [
+            "Agility"
+        ]
+    },
+    {
+        "name": "Silkspun Seam",
+        "category": "Gilding Attributes",
+        "image": "32px-Silkspun_Seam.png",
+        "gild_chance": "50%-100%",
+        "gilds": [
+            "Agility +3",
+            "Psyche +2"
+        ],
+        "success_attributes": [
+            "Charisma"
+        ]
+    },
+    {
+        "name": "Snakeskin Stripes",
+        "category": "Gilding Attributes",
+        "image": "Snakeskin_Stripes.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Intelligence +1",
+            "Will +2",
+            "Stealth +3"
+        ],
+        "success_attributes": [
+            "Lore",
+            "Stealth",
+            "Will"
+        ]
+    },
+    {
+        "name": "Spun Gluethread",
+        "category": "Gilding Attributes",
+        "image": "Spun_Gluethread.png",
+        "gild_chance": "10%-80%",
+        "gilds": [
+            "Agility +3"
+        ],
+        "success_attributes": [
+            "Agility"
+        ]
+    },
+    {
+        "name": "Squirrel's Pouch",
+        "category": "Gilding Attributes",
+        "image": "32px-Squirrel's_Pouch.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Taproot Lacing",
+        "category": "Gilding Attributes",
+        "image": "Taproot_Lacing.png",
+        "gild_chance": "45%-95%",
+        "gilds": [
+            "Survival +2"
+        ],
+        "success_attributes": [
+            "Survival"
+        ]
+    },
+    {
+        "name": "Troll Hide Ruffle",
+        "category": "Gilding Attributes",
+        "image": "Troll_Hide_Ruffle.png",
+        "gild_chance": "30%-90%",
+        "gilds": [
+            "Unarmed Combat +8"
+        ],
+        "success_attributes": [
+            "Sewing",
+            "Strength",
+            "Will"
+        ]
+    },
+    {
+        "name": "Troll Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Troll_Pocket.png",
+        "gild_chance": "70%-95%",
+        "gilds": [
+            "Inventory +2"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Turtle Shell Buttons",
+        "category": "Gilding Attributes",
+        "image": "32px-Turtle_Shell_Buttons.png",
+        "gild_chance": "50%-85%",
+        "gilds": [
+            "Strength +1",
+            "Survival +2",
+            "Lore +2"
+        ],
+        "success_attributes": [
+            "Intelligence",
+            "Lore",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Twig of Spruce",
+        "category": "Gilding Attributes",
+        "image": "Twig_of_Spruce.png",
+        "gild_chance": "60%-90%",
+        "gilds": [
+            "Survival +1",
+            "Lore +1"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Exploration",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Wax-Impregnated Lining",
+        "category": "Gilding Attributes",
+        "image": "Wax-Impregnated_Lining.png",
+        "gild_chance": "50%-100%",
+        "gilds": [
+            "Exploration +5"
+        ],
+        "success_attributes": [
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Whalebone Clasps",
+        "category": "Gilding Attributes",
+        "image": "Whalebone_Clasps.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Melee Combat +3",
+            "Unarmed Combat +3",
+            "Agility +4"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Sewing",
+            "Stealth",
+            "Strength"
+        ]
+    },
+    {
+        "name": "Wolf's Claw",
+        "category": "Gilding Attributes",
+        "image": "Wolf's_Claw.png",
+        "gild_chance": "25%-65%",
+        "gilds": [
+            "Strength +1",
+            "Agility +1"
+        ],
+        "success_attributes": [
+            "Strength"
+        ]
+    },
+    {
+        "name": "Woodsman's Token",
+        "category": "Gilding Attributes",
+        "image": "32px-Woodsman's_Token.png",
+        "gild_chance": "50%-95%",
+        "gilds": [
+            "Carpentry +3",
+            "Lore +2"
+        ],
+        "success_attributes": [
+            "Carpentry",
+            "Charisma",
+            "Exploration",
+            "Lore"
+        ]
+    },
+    {
+        "name": "Wool Cloth Collar",
+        "category": "Gilding Attributes",
+        "image": "Wool_Cloth_Collar.png",
+        "gild_chance": "45%-95%",
+        "gilds": [
+            "Charisma +3",
+            "Constitution +3",
+            "Sewing +3"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Wool Stuffing",
+        "category": "Gilding Attributes",
+        "image": "Wool_Stuffing.png",
+        "gild_chance": "40%-100%",
+        "gilds": [
+            "Constitution +1",
+            "Marksmanship +5"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Badger's Pouch",
+        "category": "Gilding Attributes",
+        "image": "32px-Badger's_Pouch.png",
+        "gild_chance": "50%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Bushcraft Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Bushcraft_Pocket.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Cloth Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Cloth_Pocket.png",
+        "gild_chance": "50%-93%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Gold Cloth Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Gold_Cloth_Pocket.png",
+        "gild_chance": "70%-95%",
+        "gilds": [
+            "Inventory +2"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing",
+            "Lore"
+        ]
+    },
+    {
+        "name": "Hardened Leather Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Hardened_Leather_Pocket.png",
+        "gild_chance": "50%-93%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Leather Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Leather_Pocket.png",
+        "gild_chance": "40%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Silk Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Silk_Pocket.png",
+        "gild_chance": "60%-95%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing",
+            "Lore"
+        ]
+    },
+    {
+        "name": "Squirrel's Pouch",
+        "category": "Gilding Attributes",
+        "image": "32px-Squirrel's_Pouch.png",
+        "gild_chance": "35%-90%",
+        "gilds": [
+            "Inventory +1"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Troll Pocket",
+        "category": "Gilding Attributes",
+        "image": "32px-Troll_Pocket.png",
+        "gild_chance": "70%-95%",
+        "gilds": [
+            "Inventory +2"
+        ],
+        "success_attributes": [
+            "Dexterity",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Amber",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Amber.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Constitution",
+            "Agility",
+            "Carpentry",
+            "Survival"
+        ],
+        "success_attributes": [
+            "Intelligence",
+            "Unarmed Combat"
+        ]
+    },
+    {
+        "name": "Amethyst",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Amethyst.png",
+        "gild_chance": "50%-80%",
+        "gilds": [
+            "Constitution",
+            "Charisma",
+            "Sewing",
+            "Melee Combat"
+        ],
+        "success_attributes": [
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Diamond",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Diamond.png",
+        "gild_chance": "60%-95%",
+        "gilds": [
+            "Strength",
+            "Agility",
+            "Marksmanship",
+            "Melee Combat"
+        ],
+        "success_attributes": [
+            "Intelligence",
+            "Charisma",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Dust Jewel",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Dust_Jewel.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Perception",
+            "Survival",
+            "Exploration",
+            "Masonry"
+        ],
+        "success_attributes": [
+            "Exploration"
+        ]
+    },
+    {
+        "name": "Emerald",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Emerald.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Charisma",
+            "Strength",
+            "Farming",
+            "Lore"
+        ],
+        "success_attributes": [
+            "Charisma",
+            "Farming"
+        ]
+    },
+    {
+        "name": "Jade",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Jade.png",
+        "gild_chance": "70%-90%",
+        "gilds": [
+            "Psyche",
+            "Will",
+            "Lore"
+        ],
+        "success_attributes": [
+            "Psyche",
+            "Masonry",
+            "Sewing"
+        ]
+    },
+    {
+        "name": "Moonstone",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Moonstone.png",
+        "gild_chance": "50%-90%",
+        "gilds": [
+            "Psyche",
+            "Constitution",
+            "Marksmanship",
+            "Smithing"
+        ],
+        "success_attributes": [
+            "Lore"
+        ]
+    },
+    {
+        "name": "Onyx",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Onyx.png",
+        "gild_chance": "60%-80%",
+        "gilds": [
+            "Will",
+            "Intelligence",
+            "Stealth",
+            "Carpentry"
+        ],
+        "success_attributes": [
+            "Stealth"
+        ]
+    },
+    {
+        "name": "Opal",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Opal.png",
+        "gild_chance": "60%-80%",
+        "gilds": [
+            "Dexterity",
+            "Smithing",
+            "Survival",
+            "Masonry"
+        ],
+        "success_attributes": [
+            "Smithing",
+            "Charisma"
+        ]
+    },
+    {
+        "name": "Oyster Pearl",
+        "category": "Gilding Attributes",
+        "image": "Oyster_Pearl.png",
+        "gild_chance": "20%-60%",
+        "gilds": [
+            "Learning Ability +10",
+            "Melee Combat +5"
+        ],
+        "success_attributes": [
+            "Strength"
+        ]
+    },
+    {
+        "name": "Red Coral",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Rough_Red_Coral.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Dexterity",
+            "Charisma",
+            "Stealth",
+            "Lore"
+        ],
+        "success_attributes": [
+            "Dexterity"
+        ]
+    },
+    {
+        "name": "River Pearl",
+        "category": "Gilding Attributes",
+        "image": "River_Pearl.png",
+        "gild_chance": "20%-60%",
+        "gilds": [
+            "Learning Ability +10",
+            "Unarmed Combat +5"
+        ],
+        "success_attributes": [
+            "Strength"
+        ]
+    },
+    {
+        "name": "Ruby",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Ruby.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Strength",
+            "Dexterity",
+            "Survival",
+            "Charisma"
+        ],
+        "success_attributes": [
+            "Strength",
+            "Survival"
+        ]
+    },
+    {
+        "name": "Sapphire",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Sapphire.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Agility",
+            "Psyche",
+            "Exploration",
+            "Cooking"
+        ],
+        "success_attributes": [
+            "Agility",
+            "Unarmed Combat"
+        ]
+    },
+    {
+        "name": "Star Shard",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Onyx.png",
+        "gild_chance": "",
+        "gilds": [],
+        "success_attributes": []
+    },
+    {
+        "name": "Sugar Diamond",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Diamond.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Charisma",
+            "Agility",
+            "Masonry",
+            "Lore"
+        ],
+        "success_attributes": [
+            "Intelligence",
+            "Unarmed Combat"
+        ]
+    },
+    {
+        "name": "Topaz",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Topaz.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Perception",
+            "Carpentry",
+            "Charisma",
+            "Farming"
+        ],
+        "success_attributes": [
+            "Perception",
+            "Cooking"
+        ]
+    },
+    {
+        "name": "Turquoise",
+        "category": "Gilding Attributes",
+        "image": "Gem-Jotun_Brilliant_Turquoise.png",
+        "gild_chance": "60%-85%",
+        "gilds": [
+            "Intelligence",
+            "Agility",
+            "Exploration",
+            "Charisma"
+        ],
+        "success_attributes": [
+            "Intelligence",
+            "Unarmed Combat"
+        ]
+    }
+]
