@@ -125,6 +125,13 @@ def main():
 
         filtered_items.append(item)
 
+    filtered_items.sort(
+    key=lambda x: (
+        x.get("gild_chance_min") or 0,
+        x.get("gild_chance_max") or 0
+    ),
+    reverse=True
+)
     st.write(f"Found {len(filtered_items)} items")
 
     # --- Rendering ---
@@ -148,23 +155,27 @@ def main():
 
             st.markdown(f"**[{name}]({wiki_url})**")
 
-
         # Stats column
-        with cols[1]:
 
-            # ✅ Show full percentage string directly
-            if item.get("gild_chance"):
-                st.markdown(f"**Chance:** {item['gild_chance']}")
+        with cols[1]:
+            min_chance = item.get("gild_chance_min")
+            max_chance = item.get("gild_chance_max")            
+            if min_chance is not None and max_chance is not None:
+                st.markdown(f"**Chance:** {min_chance}%-{max_chance}%")
+
 
             if item.get("gilds"):
                 st.markdown("**Gilds:**")
                 for g in item["gilds"]:
                     st.markdown(f"- {g}")
-
             if item.get("success_attributes"):
                 st.markdown("**Attributes:**")
                 for a in item["success_attributes"]:
                     st.markdown(f"- {a}")
+
+
+
+
 
         st.markdown("<hr>", unsafe_allow_html=True)
 
